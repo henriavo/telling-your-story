@@ -83,7 +83,7 @@
     <p class="fs-5 col-md-8">I'm a sofware developer living in Chicago. I've been profesionally coding for about 10 years. But I'm new to the web stack, and this is an example of something I depoyed. </p>
 
     <div class="mb-5">
-      <a href="https://henri-public-bucket.s3.us-east-2.amazonaws.com/merry_christmas_2022.jpg" class="btn btn-primary btn-lg px-4">Click here for an xmas card</a>
+      <a href="https://henri-public-bucket.s3.us-east-2.amazonaws.com/merry_christmas_2022.jpg" class="btn btn-primary btn-lg px-4" target="_blank">Click here for an xmas card</a>
     </div>
 
     <hr class="col-3 col-md-2 mb-5">
