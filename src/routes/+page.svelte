@@ -46,7 +46,7 @@
 				<h2>Projects</h2>
 				<p>I've settled on a language, framework, and cloud provider. So my goal is start building and deploying. All code is on my public github. </p>
 				<ul class="icon-list ps-0">
-					<li class="d-flex align-items-start mb-1"><a href="https://github.com/henriavo/telling-your-story" rel="noopener" target="_blank">Sourc code for this website</a></li>
+					<li class="d-flex align-items-start mb-1"><a href="https://github.com/henriavo/telling-your-story" rel="noopener" target="_blank">Source code for this website</a></li>
 					<li class="text-muted d-flex align-items-start mb-1">(more coming soon!)</li>
 				</ul>
 			</div>
